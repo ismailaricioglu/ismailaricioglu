@@ -27,7 +27,11 @@
 <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
 <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
 <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
+<img src="" alt="" height="40" style="vertical-align:top; margin:4px">
+<img src="" alt="" height="40" style="vertical-align:top; margin:4px">
 
+<img src="https://github.com/ismailaricioglu/ismailaricioglu/assets/93845776/88992181-3ea7-4589-ae25-828fbcc2789b" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
