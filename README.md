@@ -13,6 +13,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ismailaricioglu)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailaricioglu)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailaricioglu&show_icons=true)  
 
