@@ -8,7 +8,7 @@
 - 📫 E-posta adresim : i_aricioglu@hotmail.com
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ismailaricioglu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ismailaricioglu//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ismailaricioglu//)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ismailaricioglu)](https://github.com/ryo-ma/github-profile-trophy)
 
