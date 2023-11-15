@@ -12,7 +12,8 @@
 
 ---
 
-![png-clipart-microsoft-sql-server-microsoft-sql-server-database-administrator-computer-icons-table-free-high-quality-sql-server-icon-miscellaneous-text]()
+
+![Visual_Studio_Icon_2019 svg]()
 
 
 
@@ -28,8 +29,8 @@
 <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
 <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
 <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="" height="40" style="vertical-align:top; margin:4px">
 
+<img src="https://github.com/ismailaricioglu/ismailaricioglu/assets/93845776/248a850c-a95a-4034-a481-a02677d111ed" alt="Visual Studio" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/ismailaricioglu/ismailaricioglu/assets/93845776/88992181-3ea7-4589-ae25-828fbcc2789b" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
