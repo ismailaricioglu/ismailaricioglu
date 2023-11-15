@@ -22,7 +22,7 @@ https://github.com/ismailaricioglu/ismailaricioglu/assets/93845776/83627593-f6e8
 <p align="left">
 <img src="https://github.com/ismailaricioglu/ismailaricioglu/assets/93845776/101f2be6-951e-4c2c-af54-2b227ab1e3d8" alt="Turbo Pascal" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" alt="Visual Basic" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/ismailaricioglu/ismailaricioglu/assets/93845776/83627593-f6e8-435b-bdbe-67d34c7d39cb" alt="C#" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt=".Net" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 
