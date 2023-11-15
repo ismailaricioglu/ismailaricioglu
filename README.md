@@ -11,8 +11,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ismailaricioglu//)  
 
 ---
-![eclipse_94656]()
-![IntelliJ_IDEA_Edu_Icon svg]()
+
 
 
 ## 🧰 Kullandığım Dil ve Araçlar:
@@ -26,10 +25,9 @@
 <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
 <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
 <img src="" alt="" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="" height="40" style="vertical-align:top; margin:4px">
 
-  
+<img src="https://github.com/ismailaricioglu/ismailaricioglu/assets/93845776/5d9e0373-1057-44cf-8552-01baf5956f3c" alt="Unity" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/ismailaricioglu/ismailaricioglu/assets/93845776/f7fecedf-f534-4d45-a5a1-cda74f80ddba" alt="Netbeans" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/ismailaricioglu/ismailaricioglu/assets/93845776/a8e9bce0-6d3e-483f-a590-aa8742483dd9" alt="Intellij IDEA" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://github.com/ismailaricioglu/ismailaricioglu/assets/93845776/efaa2afe-9b8f-4233-9af9-ea87237015be" alt="Eclipse" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://github.com/ismailaricioglu/ismailaricioglu/assets/93845776/d1ee41ba-f709-4a19-8944-5749a47c7403" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
