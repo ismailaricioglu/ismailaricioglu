@@ -1,10 +1,11 @@
-### Hi there 👋, ben İsmail
-#### Türkiye yaşayan bir Yazılım Teknikeriyim
+### Merhabalar 👋, ben İsmail
+#### Türkiyenin doğusunda Erzurumda yaşayan bir Yazılım Teknikeriyim.
 
-- 🔭 I’m currently working on "ne üzerine çalıştığım" 
-- 🌱 I’m currently learning "ne üzerine geliştiğim" 
-- 💬 Ask me about "ne üzerine sorular aldığım" 
-- 📫 How to reach me: "e posta adresim" 
+- 🔭 Profesyonel hayatım için yazılım kariyeri oluşturmaktayım.
+- 🌱 Yazılım konu bütünlüğü üzerine küçük resimleri bir araya getirerek kendimi geliştirmekteyim.
+- 👯 Şu anda işbirliklerine açığım. 
+- 💬 Sorularınızı e-posta üzerinden cevaplayabilirim.
+- 📫 E-posta adresim : i_aricioglu@hotmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ismailaricioglu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ismailaricioglu//)  
